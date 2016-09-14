@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="fab_shadow_size">8dp</dimen>
+    <dimen name="fab_mini_shadow_size">6dp</dimen>
+
+    <dimen name="fab_min_significant_scroll">4dp</dimen>
+    <dimen name="fab_elevation_lollipop">5dp</dimen>
+
+    <dimen name="action_bar_elevation">7.5dp</dimen>
+    <dimen name="note_list_elevation">55dp</dimen>
+    <dimen name="note_view_edit_elevation">45dp</dimen>
+
+    <dimen name="note_list_elevation_land">65dp</dimen>
+    <dimen name="note_view_edit_elevation_land">40dp</dimen>
+
+    <dimen name="padding_top_bottom">12dp</dimen>
+    <dimen name="padding_top_bottom_date">8dp</dimen>
+    <dimen name="padding_left_right">16dp</dimen>
+
+    <dimen name="fab_padding">16dp</dimen>
+
+</resources>
